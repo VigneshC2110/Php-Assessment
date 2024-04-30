@@ -1,5 +1,10 @@
-<?php include 'header.php'; ?>
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
 body, h1, p{
     margin: 0;
     padding: 0;
@@ -23,15 +28,17 @@ p {
     margin: 40px 0px auto;
     padding: 20px;
 }
-
 </style>
+</head>
 <body>
+<?php include 'header.php'; ?>
     <section>
         <div class="container">
             <h2>Welcome to Our E-commerce Store</h2>
             <p>We offer comprehensive web design and development services that are tailored to meet the unique needs of your business. Our team of experienced designers and developers work closely with you to create a website that not only looks great but also functions seamlessly. We focus on creating a user-friendly experience for your visitors, ensuring that your website is easy to navigate and optimized for conversions.At BrandCurb, we take a collaborative approach to every project, ensuring that we fully understand your business and your goals before we begin. Whether you're looking to launch a new website or redesign an existing one, we are here to help you achieve your online objectives. Contact us today to learn more about our web design and development services and how we can help your business succeed online.</p>
         </div>
     </section>
-</body>
-
 <?php include 'footer.php'; ?>
+
+</body>
+</html>

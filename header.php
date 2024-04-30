@@ -114,7 +114,7 @@
             background-color: rgb(78 64 167);
         }
     </style>
-    <h1>Vicky</h1>
+    <h1>B & P</h1>
     <nav>
         <ul>
             <li><a href="index.php">Home</a></li>

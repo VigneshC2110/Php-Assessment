@@ -11,5 +11,5 @@
 }
 
     </style>
-    <p>&copy; 2024 Vicky. All rights reserved.</p>
+    <p>&copy; 2024 B & P. All rights reserved.</p>
 </footer>
